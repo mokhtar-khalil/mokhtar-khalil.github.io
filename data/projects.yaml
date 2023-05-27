@@ -1,0 +1,15 @@
+projects:
+- title: "Mobile solar panel"
+  date: "2022"
+  details: 
+    design a mobile solar panel that follows the sun throughout the day, the goal is to maximize performance.
+
+- title: "Elaborating the food balance of Mauritania for 2016 and 2017"
+ 
+  date: "2023"
+  details: 
+    The main objective of the project is to analyze the trends and drivers of food availability, access, utilization and stability in Mauritania, using data from various sources such as FAO and ANSADE.
+  links:
+  - title: Available in GitHub
+    url: https://github.com/mokhtar-khalil/Streamlit-dashboard
+    icon: fab fa-github

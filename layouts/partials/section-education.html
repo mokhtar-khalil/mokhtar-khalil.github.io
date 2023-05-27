@@ -1,0 +1,11 @@
+{{ range .Data.education }}
+<div class="item group">
+  <h2 class="item-title">{{ .name }}</h2>
+  {{ if .school }}
+    <span>{{ .school }}</span><br>
+  {{ else if .institute }}
+    <span>{{ .institute }}</span><br>{{ end }}
+  {{ if .more }}<span>{{ .more }}</span><br>{{ end }}
+	<span>{{ .date }}{{ if .average }} | Average: {{ .average }}{{ end }}</span>
+</div>
+{{ end }}

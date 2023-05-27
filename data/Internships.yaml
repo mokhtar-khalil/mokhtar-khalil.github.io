@@ -1,0 +1,13 @@
+- company: Ministry of public function
+  roles:
+    - role: Intern - Data Analyst
+      details: "Perform univariate, bivariate and multivariate analysis on the data of public sector workers to identify the characteristics of a public worker."
+      date: "7.2022 - 8.2023 "
+
+- company: Data Turing
+  roles: 
+    - role: Intern - Data & MLOps engineer 
+      details: "Creating a chatbot for predicting the possibility of admission in baccalaureate and suggesting universities."
+      date: "05.2023 - present"
+    
+    

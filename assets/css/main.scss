@@ -1,0 +1,13 @@
+$font-1: 'PT Sans', 'IBM Plex Sans', 'Arial', sans-serif;
+$border-color: #bfbfbf;
+$text-color:#333333 ;
+$header-color :#007BFF ;
+$toprak: #b56b00;
+$turk: #e30a18d0;
+
+@import "base";
+@import "redundant";
+@import "layout";
+@import "section";
+@import "footer";
+@import "print";

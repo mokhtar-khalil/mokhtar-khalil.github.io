@@ -1,0 +1,13 @@
+- name: "Baccalaureate"
+  school: "El Menhel EL JEDID"
+  date: "2018- 2019"
+  average: "14.07"
+
+- name: " Classes Preparatoires "
+  institute: "IPGEI - Nouakchott"
+  date: "2019 - 2021"
+  average : "11.29"
+- name: " Statistical engineering and Data science"
+  institute: "Polytechnic of Noukchott Nouakchott"
+  date: "2021 - Present"
+  average : "13.23"

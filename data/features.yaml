@@ -1,0 +1,74 @@
+about:
+  name: Med Moctar Khalil
+  tagline: Data Scientist
+  phone: "+222 36656149"
+  email: mokhtarkhalil655@gmail.com
+  links:
+    - title: /in/mohamedmokhtar
+      url: https://www.linkedin.com/in/mohamed-el-mokhtar-el-khalil-009550218/
+      icon: fab fa-linkedin
+    
+    - title: mokhtarkhalil
+      url: https://github.com/mokhtar-khalil/
+      icon: fab fa-github
+  details: 
+      I'm a data scientist with a passion for finding insights from large and complex datasets.
+      I have experience in applying various machine learning techniques and statistical methods to solve real-world problems.
+      I enjoy working with different tools and technologies to explore, analyze and visualize data.
+
+
+skills:
+  - groupName: Databases
+    list:
+      - MySQL
+      - MongoDB 
+   
+
+
+  - groupName: Programming and Visualization
+    list:
+      -  Python 
+      -  R 
+      -  SQL
+      -  Excel 
+      -  Stata 
+      -  Rshiny 
+      -  GAMS
+      -  Streamlit 
+
+  - groupName: Web Developpement and APi's 
+    list:
+    - Django
+    - Flask
+    - Swagger Api docs
+
+    
+  - groupName: Soft skills
+    list : 
+      - Communication
+      - Teamwork
+      - Critical thinking
+
+
+hobbies:
+  -   Reading
+  -   Football
+  -   Meditating
+
+languages:
+  - name: Arabic
+    level: Native
+
+  - name: French
+    level: Professional
+    certificates:
+      - "B2: 2021"
+      - "C1: 2022"
+      
+  - name: English
+    level: Professional
+    certificates:
+      - "Track - Test: 65.91%" 
+
+
+

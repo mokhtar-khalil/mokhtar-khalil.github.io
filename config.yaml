@@ -1,0 +1,50 @@
+baseURL: "https://mokhtar-khalil.github.io/"
+languageCode: "en-us"
+title: "Resume | MOHAMED MOKHTAR KHALIL"
+disableKinds: ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
+theme: "resume-a4"
+
+
+
+params:
+  useFontAwesome: true
+  css:
+    - custom.scss
+#   - print_urls.scss
+  header:
+    image: mokhtar.jpg
+    contact: true
+    tagline: true
+    links: false
+  side:
+    - feature: languages
+    - feature: skills
+      widget: word-list
+      style: compact # list, compact, title-list
+    
+  pages:
+    - features:
+        - feature: about
+          title: About Me
+        - feature: education
+        - feature: internships
+        
+    - features:
+        - feature: projects
+          collection: projects
+      
+        - feature: hobbies
+          widget: word-list
+          style: list
+        
+  footer:
+    show: true
+    credits: true
+    footnote: >-
+      I'm available for internships and the main intreset is banking sector.
+    links:
+      - prefix: Contact me on
+        title: Linkedin
+        url: 'https://www.linkedin.com/in/mohamed-el-mokhtar-el-khalil-009550218/'
+        icon: fab fa-linkedin
+      
